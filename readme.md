@@ -1,6 +1,6 @@
-# Final Exam CISC 525 Big Data Architecture - Spring 2020
+# Final Exam CISC 525 Big Data Architecture - Summer 2020
 
-This is your final exam for the Spring 2020.
+This is your final exam for the Summer 2020.
 
 ## Instructions
 
@@ -19,10 +19,10 @@ Grading:
 - Each correct answer to the question is worth 5 point.
 - 10 points for property document your code. You can use Markdown
 to document your code as I did in the notebook.
-- You can also use assignment report template in Microsoft Word. You m
-must submit the usual report to `Canvas`. You must make sure to provide
-me with the link to your repository and share it with me.
+- You must also use assignment report template in Microsoft Word. 
+- Youmust submit the usual report to `Canvas`. 
+- You must make sure to provide me with the link to your repository and share it with me.
 
-Due date: Midnight Friday 17 April 2020. No late submission is allowed.
+Due date: Midnight Sunday 9 August 2020. No late submission is allowed.
 
 Good luck.
