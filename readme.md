@@ -14,7 +14,7 @@ accompanied with segment of working code.
 - You must use Jupyter notebook tools
 - You must properly document and explain your approach and code.
 
-Grading:
+## Grading
 
 - Each correct answer to the question is worth 5 point.
 - 10 points for property document your code. You can use Markdown
