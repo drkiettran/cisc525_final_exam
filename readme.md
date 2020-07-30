@@ -23,6 +23,6 @@ to document your code as I did in the notebook.
 - Youmust submit the usual report to `Canvas`. 
 - You must make sure to provide me with the link to your repository and share it with me.
 
-Due date: Midnight Sunday 9 August 2020. No late submission is allowed.
+Due date: Midnight Friday 7 August 2020. No late submission is allowed.
 
 Good luck.
