@@ -1,14 +1,12 @@
-# Final Exam CISC 525 Big Data Architecture - Summer 2020
-
-This is your final exam for the Summer 2020.
+# Final Exam CISC 525 Big Data Architecture - Late Summer 2020
 
 ## Instructions
 
-Part I: make sure you can run load the notebook and run `as is` before
+**Part I**: make sure you can run load the notebook and run `as is` before
 you attempt making any changes. Go through the code and understand it
 thoroughly before making changes.
 
-Part II: Answer the eighteen (18) questions. Each answer must be
+**Part II**: Answer the eighteen (18) questions. Each answer must be
 accompanied with segment of working code.
 
 - You must use Jupyter notebook tools
@@ -36,6 +34,6 @@ area for **grading**
 
 ## Due date
 
-**Midnight Friday 7 August 2020**. *No late submission is allowed*.
+**Midnight Friday 16 October 2020**. *No late submission is allowed*.
 
 Good luck.
