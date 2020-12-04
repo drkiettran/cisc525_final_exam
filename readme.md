@@ -34,6 +34,6 @@ area for **grading**
 
 ## Due date
 
-**Midnight Friday 10 December 2020**. *No late submission is allowed*.
+**Midnight Friday 11 December 2020**. *No late submission is allowed*.
 
 Good luck.
