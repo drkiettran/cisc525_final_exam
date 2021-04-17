@@ -1,4 +1,4 @@
-# Final Exam CISC 525 Big Data Architecture - Fall 2020
+# Final Exam CISC 525 Big Data Architecture - Spring 2021
 
 ## Instructions
 
@@ -34,6 +34,6 @@ area for **grading**
 
 ## Due date
 
-**Midnight Friday 11 December 2020**. *No late submission is allowed*.
+**Midnight Friday 23 April 2021**. *No late submission is allowed*.
 
 Good luck.
